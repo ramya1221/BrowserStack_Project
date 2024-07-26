@@ -1,0 +1,3 @@
+implicitWait = 10
+browser=Chrome
+url=https://www.browserstack.com
